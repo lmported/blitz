@@ -12,4 +12,6 @@ Steals Passwords, Tokens, Minecraft, Roblosecurity, Wifi info, History, Pc hwid,
 * Best grabber out. Updated 24/7.
 
 SAFE 100%.
+
+EDUCATIONAL PURPOSES DO NOT GO IN YOU'RE WAY TO HARM SOMEBODY WITH THIS!!!
 ```
